@@ -1,2 +1,3 @@
 # toy_ds_project
-Dsici-100
+Dsci-100
+project creation date:2025.2.4
